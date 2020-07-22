@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 🥳👋
 
-### Thanks for coming 🥳😘😜
+### Thanks for coming !
 
 <table>
   <tr>
