@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Thank you for visiting me!
+
+<img src="https://alphabrend.sakura.ne.jp/counter/counter_image.svg" alt="">
 <!--
 **lsk4f5/lsk4f5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
