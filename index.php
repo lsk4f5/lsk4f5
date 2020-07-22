@@ -1,5 +1,5 @@
 <?php
-define('WIDTH', 27);
+define('WIDTH', 28);
 define('HEIGHT', 28);
 define('DIGIT', 8);
 
