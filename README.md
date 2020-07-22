@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thank you for visiting me!
+Thanks for coming!
 
 <img src="https://alphabrend.sakura.ne.jp/counter/counter_image.svg" alt="">
 <!--
