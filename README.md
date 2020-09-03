@@ -8,10 +8,10 @@
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsk4f5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/lsk4f5/contributions.svg)](http://qiita.com/lsk4f5)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsk4f5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 PHPで作ったカウンター
