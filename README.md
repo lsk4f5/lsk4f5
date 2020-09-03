@@ -8,6 +8,7 @@
     <td><img src="https://profile-counter.glitch.me/lsk4f5/count.svg" alt="" /></td>
   </tr>
 </table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lsk4f5=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/lsk4f5/posts.svg)](http://qiita.com/lsk4f5)
